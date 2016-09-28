@@ -1,3 +1,6 @@
 def hello
   "Hello!"
 end
+
+def greet
+end
